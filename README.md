@@ -6,13 +6,13 @@ eclipse of the [Streem](https://gitlab.com/terroratorium/streem "matz/streem: pr
 
 ### ./streem 01hello.eclipse
 
-```
+```sh
 ["hello, world"] | stdout
 ```
 
 ### ./streem 02stagy.eclipse
 
-```
+```sh
 #copied from Stagyrite.GitHub.io
 
 ["Skilled", "OCA"] | stdout #stagyrite.github.io/stagyrite
@@ -22,7 +22,7 @@ eclipse of the [Streem](https://gitlab.com/terroratorium/streem "matz/streem: pr
 
 ### ./streem 03pipe2stdout.eclipse
 
-```
+```bash
 #watch {Kironia,Eltikia}.GitHub.io
 
 stdin | stdout
