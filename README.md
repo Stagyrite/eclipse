@@ -1,8 +1,8 @@
-# ["eclipse"] | stdout
+# ["Eclipse"] | stdout
 
-## ["description"] | stdout
+## ["Description"] | stdout
 
-eclipse of the [Streem](https://gitlab.com/terroratorium/streem "matz/streem: prototype of stream based programming language") programming language
+It'd call it an eclipse of the [Streem](https://gitlab.com/terroratorium/streem "matz/streem: prototype of stream based programming language") programming language.
 
 ### ./streem 01hello.eclipse
 
@@ -22,7 +22,7 @@ eclipse of the [Streem](https://gitlab.com/terroratorium/streem "matz/streem: pr
 
 ### ./streem 03pipe2stdout.eclipse
 
-```bash
+```sh
 #watch {Kironia,Eltikia}.GitHub.io
 
 stdin | stdout
