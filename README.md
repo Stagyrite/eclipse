@@ -6,4 +6,4 @@ eclipse of the [Streem](https://gitlab.com/terroratorium/streem "matz/streem: pr
 
 ----
 
-["𝑋"] | stdout
+["𝑋"] \| stdout
