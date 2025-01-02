@@ -2,7 +2,7 @@
 
 ## ["Description"] | stdout
 
-It'd call it an eclipse of the [Streem](https://gitlab.com/terroratorium/streem "matz/streem: prototype of stream based programming language") programming language.
+It'd call it an eclipse of the [Streem](https://gitlab.com/terroratorium/streem "matz/streem: prototype of stream based programming language") programming language. Eclipse would make Streem easy.
 
 ### ./streem 01hello.eclipse
 
